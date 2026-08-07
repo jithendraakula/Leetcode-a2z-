@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0075-sort-colors) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -29,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
