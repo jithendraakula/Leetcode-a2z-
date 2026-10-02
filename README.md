@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
