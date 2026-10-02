@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0724-find-pivot-index) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -21,17 +22,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +70,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
