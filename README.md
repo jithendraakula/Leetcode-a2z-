@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0387-first-unique-character-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
