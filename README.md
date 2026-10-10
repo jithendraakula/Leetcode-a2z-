@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0724-find-pivot-index](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/0724-find-pivot-index) |
+| [1470-shuffle-the-array](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/1470-shuffle-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jithendraakula/Leetcode-a2z-/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
